@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|c:\\users\\user\\source\\repos\\mobileapp\\mobileapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|c:\\users\\user\\source\\repos\\mobileapp\\mobileapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|c:\\users\\user\\source\\repos\\mobileapp\\mobileapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|c:\\users\\user\\source\\repos\\mobileapp\\mobileapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292CFEAC-E2E5-4246-ADEE-F0CFDEFFEACF}|MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MobileApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\Models\\Product.cs",
+              "RelativeToolTip": "MobileApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:33:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MobileApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:30:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MobileApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MainPage.xaml",
+              "RelativeToolTip": "MobileApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T18:28:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MobileApp\\MobileApp\\MauiProgram.cs",
+              "RelativeToolTip": "MobileApp\\MauiProgram.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:19:33.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
