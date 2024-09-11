@@ -1,5 +1,5 @@
 
-# 🖥️📱 Microservicios Front - Frontend para Web y Móvil
+# 🖥️📱 Microservicios OrderProduts - Frontend para Web y Móvil
 
 Este proyecto contiene el frontend para las aplicaciones web y móviles que se comunican con los microservicios del backend disponible en el repositorio [MicroservicesLab_OrderProduct](https://github.com/Jhostyn-2003/MicroservicesLab_OrderProduct.git). El frontend está desarrollado en .NET y está dividido en dos aplicaciones: una aplicación web y una aplicación móvil.
 
